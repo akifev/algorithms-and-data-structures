@@ -1,4 +1,4 @@
-## Algorithms and Data Structures &#127867;
+## Algorithms &#127867; Data Structures
 
 &#127758; [Graph algorithms](graph-algorithms) <br>
 &#127939; [Minimum path](min-path) <br>
