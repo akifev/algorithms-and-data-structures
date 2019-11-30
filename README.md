@@ -1,12 +1,12 @@
-## &#127867; Algorithms and Data Structures &#127829;
+## Algorithms and Data Structures &#127867;
 
-- Graph algorithms &#127758;<br>
-- Minimum path &#127939;<br>
-- Search Tree &#127795;<br>
-- Segment Tree &#127796;<br>
-- Quires on Trees &#127794;<br>
-- Flow and Matching &#127810;<br>
-- MaxFlow MinCost &#127867;<br>
-- Mathematics &#128056;<br>
-- Strings &#128034;<br>
-- List Stack Queue + DSU &#128027;<br>
+&#127758; [Graph algorithms](graph-algorithms) <br>
+&#127939; [Minimum path](min-path) <br>
+&#127795; [Search Tree](search-tree) <br>
+&#127796; [Segment Tree](segment-tree) <br>
+&#127794; [Quires on Trees](quires-on-trees) <br>
+&#127810; [Flow and Matching](flow-and-matching) <br>
+&#127867; [MaxFlow MinCost](max-flow-min-cost) <br>
+&#128056; [Mathematics](mathematics) <br>
+&#128034; [Strings](strings) <br>
+&#128027; [List Stack Queue + DSU](list-stack-queue-dsu) <br>
